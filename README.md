@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soham Amol Patil</h1>
+<h1 align="center">Hi 👋, I'm Priya Ajit Morajkar </h1>
 <h3 align="center">This project focuses on making an interactive and advanced language learning website.</h3>
 
 - 🌱 I’m currently learning **full stack development**
